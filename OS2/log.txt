@@ -1,0 +1,20 @@
+c1 arrived
+connection 1  c1 Occupied
+c2 arrived
+connection 2  c2 Occupied
+c3 arrived
+connection 3  c3 Occupied
+connection 3  c3 performs online activity
+connection 3  c3 Logged out
+c4 arrived
+connection 3  c4 Occupied
+connection 2  c2 performs online activity
+c5 arrived and wating 
+connection 2  c2 Logged out
+connection 2  c5 Occupied
+connection 1  c1 performs online activity
+connection 2  c5 performs online activity
+connection 1  c1 Logged out
+connection 3  c4 performs online activity
+connection 3  c4 Logged out
+connection 2  c5 Logged out
